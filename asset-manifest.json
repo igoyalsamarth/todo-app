@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/igoyalsamarth/todo-app/static/css/main.6a43bf41.css",
+    "main.js": "/igoyalsamarth/todo-app/static/js/main.ff548c23.js",
+    "static/js/787.b8fa26a9.chunk.js": "/igoyalsamarth/todo-app/static/js/787.b8fa26a9.chunk.js",
+    "index.html": "/igoyalsamarth/todo-app/index.html",
+    "main.6a43bf41.css.map": "/igoyalsamarth/todo-app/static/css/main.6a43bf41.css.map",
+    "main.ff548c23.js.map": "/igoyalsamarth/todo-app/static/js/main.ff548c23.js.map",
+    "787.b8fa26a9.chunk.js.map": "/igoyalsamarth/todo-app/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a43bf41.css",
+    "static/js/main.ff548c23.js"
+  ]
+}
